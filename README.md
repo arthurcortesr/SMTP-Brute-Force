@@ -1,6 +1,6 @@
 # SMTP-Brute-Force
 
-Este script em Python foi desenvolvido para realizar um ataque de força bruta contra um servidor SMTP. Ele tenta enumerar usuários válidos enviando comandos VRFY e analisando as respostas do servidor.
+O script ```smtp_brute.py``` foi desenvolvido em Python para realizar um ataque de força bruta contra um servidor SMTP. Ele tenta enumerar usuários válidos enviando comandos VRFY e analisando as respostas do servidor.
 
 <br>
 
